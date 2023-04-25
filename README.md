@@ -1,6 +1,6 @@
 ### Hi there 👋.
-I'm Adriti, from Kolkata
-😄 Pronouns: She/Her
+I'm Adriti, from Kolkata.
+Pronouns: She/Her
 
 
 <!--
