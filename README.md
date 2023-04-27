@@ -1,6 +1,7 @@
-### Hi there 👋.
-I'm Adriti, from Kolkata.
-Pronouns: She/Her
+# Hi there 👋
+##I'm Adriti, from Kolkata.
+### I'm currently an engineering student, looking forward to pursue a career in Tech
+
 
 
 <!--
