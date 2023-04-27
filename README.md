@@ -1,6 +1,8 @@
 # Hi there 👋
-##I'm Adriti, from Kolkata.
+## I'm Adriti, from Kolkata.
 ### I'm currently an engineering student, looking forward to pursue a career in Tech
+
+### 🌱 I’m currently learning : FrontEnd Development, with an interest in UI/UX and Android Development
 
 
 
